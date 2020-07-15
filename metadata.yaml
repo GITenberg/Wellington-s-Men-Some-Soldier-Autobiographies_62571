@@ -1,0 +1,31 @@
+_repo: Wellington-s-Men-Some-Soldier-Autobiographies_62571
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Fitchett, W. H. (William Henry)
+    alias: Fitchett, William Henry
+    birthdate: 1845
+    deathdate: 1928
+    gutenberg_agent_id: '8564'
+    url: http://www.gutenberg.org/2009/agents/8564
+    wikipedia: https://en.wikipedia.org/wiki/William_Henry_Fitchett
+description: ''
+gutenberg_issued: '2020-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Waterloo, Battle of, Waterloo, Belgium, 1815 -- Personal narratives, British'
+- !lcsh 'Soldiers -- Great Britain -- Biography'
+- !lcsh 'Peninsular War, 1807-1814 -- Personal narratives, British'
+- !lcsh 'Great Britain. Army -- Biography'
+- !lcc 'DC'
+- GITenberg
+tableOfContents: The soldier in literature -- From Torres Vedras to Waterloo -- One
+  of Craufurd's veterans -- A Royal Highlander -- With the guns at Waterloo.
+title: 'Wellington''s Men: Some Soldier Autobiographies'
+url: http://www.gutenberg.org/ebooks/62571
